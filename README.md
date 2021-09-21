@@ -1,11 +1,11 @@
 # LIME: Layered Image Manipulation and Enhancement
 
-This project forms the base model of our image processor and enhancer. The model can be used to read
+This project forms the GUI of our image processor and enhancer. The model can be used to read
 .ppm images or images in any other format (.jpeg, etc.), convert them into image models
 corresponding to our base model, and filter or transform these images. The filters supported in this
-version are "blur" and "sharpen", and the transformations supported are "sepia" and "greyscale".
+version are "blur" and "sharpen", and the transformations supported are "sepia", "mosaic" and "greyscale".
 This project can also be used to create custom programmatic images like a "checkerboard", and then
-export any image models to our device in .ppm format.
+export any image models to our device in .ppm, .jpeg, or .png format.
 
 ## Overview of Interfaces and Classes
 
