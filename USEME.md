@@ -96,7 +96,7 @@ Gives a list of all of the layers present in the model, regardless of their visi
 
 Gives a list of all of the visible layers present in the model
 
-## Using The gui: A Step-by-Step Guide
+## Using The GUI: A Step-by-Step Guide
 
 - A layer must be created and made current before trying to upload anything onto it. The only
   exception is while loading a script. A script can be uploaded directly, without any steps
