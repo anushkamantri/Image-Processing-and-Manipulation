@@ -1,5 +1,6 @@
 # LIME: Layered Image Manipulation and Enhancement
 
+[Code available on request]
 This project forms the GUI of our image processor and enhancer. The model can be used to read
 .ppm images or images in any other format (.jpeg, etc.), convert them into image models
 corresponding to our base model, and filter or transform these images. The filters supported in this
