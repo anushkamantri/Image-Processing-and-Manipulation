@@ -1,4 +1,4 @@
-# LIME: Layered Image Manipulation and Enhancement
+# LIME: Layered Image Manipulation and Enhancement (Java)
 
 [Code available on request]
 This project forms the GUI of our image processor and enhancer. The model can be used to read
