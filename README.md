@@ -58,6 +58,9 @@ export any image models to our device in .ppm, .jpeg, or .png format.
 
 - Mosaic: Applies the mosaic filter to the current layer.
 
+#### Disclaimer
+This project was developed as part of the Object Oriented Design course at Northeastern University. The code will be available on request due to the university honor code.
+
 ## Authors
 
 Anushka Mantri [mantri.an@northeastern.edu]
